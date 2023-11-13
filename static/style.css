@@ -1,0 +1,29 @@
+body {
+    background-color: paleturquoise;
+    background-size: contain;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    color: black;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+}
+
+.button_form:hover {
+    opacity: 0.5;
+}
+
+.btn {
+    font-size: 45px;
+}
+
+p {
+    font-size: 45px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
